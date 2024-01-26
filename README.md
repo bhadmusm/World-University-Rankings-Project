@@ -2,9 +2,9 @@
 
 Data Visualisation Project by Maryam Bhadmus.
 
-The purpose of this project is to present an interactive representation of the world university rankings. 
+The purpose of this project is to present an interactive representation of the world university rankings, based on many different aspects such as reasearch score, citation score and international outlook. 
 
-Developed using Processing and the gicentre geoMap library, the application provides a dynamic and engaging visualization of the complex landscape of higher education globally.
+Developed using Processing and the gicentre geoMap library, the application provides a dynamic visualization of the complex landscape of higher education globally.
 
 ## To run the program:
 
