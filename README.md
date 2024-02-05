@@ -6,6 +6,11 @@ The purpose of this project is to present an interactive representation of the w
 
 Developed using Processing and the gicentre geoMap library, the application provides a dynamic visualization of the complex landscape of higher education globally.
 
+
+![Alt text]([image link](https://github.com/bhadmusm/World-University-Rankings-Project/blob/main/sample_image2.png)) 
+
+
+
 ## To run the program:
 
 1. Download geomap from this link : http://staff.city.ac.uk/~jwo/giCentre/geomap/geoMap.zip
